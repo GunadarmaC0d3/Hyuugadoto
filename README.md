@@ -13,6 +13,6 @@ Notepad ++ (Untuk Setting Lebih Lanjut Bisa Googleing)
 
 
 #Line = hyuugadoto
-#FB = <a href ="https://www.facebook.com/profile.php?id=100007820584525">Facebook</a>
+#FB = <a href ="https://www.facebook.com/profile.php?id=100007820584525" target="_blank">Facebook</a>
 
 Thanks For Viewing My Github (RIP ENGLISH)
