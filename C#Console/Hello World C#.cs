@@ -15,7 +15,7 @@ namespace First
         {
             //Isi dari Method
             Console.WriteLine("Hello World"); //Untuk Menampilkan Tulisan Hello World di Layar
-            Console.ReadLine();//Untuk Menahan agar tidak Langsung Keluar
+            Console.ReadKey();//Untuk Menahan agar tidak Langsung Keluar
 
         }
     }
